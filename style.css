@@ -94,6 +94,11 @@ header nav a {
     color: rgb(228, 78, 190);
     font-family: 'Rampart One', cursive;
     text-align: left;
+    transition: all 2s;
+}
+
+.titulo:hover {
+    transform: translate(300px);
 }
 
 
